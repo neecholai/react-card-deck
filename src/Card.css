@@ -1,0 +1,6 @@
+.Card {
+  width: 226px;
+  position: absolute;
+}
+
+@rotate()
